@@ -85,5 +85,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/map.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/bamako.json",
+    "label" : "[Click to edit label]"
   } ]
 }
