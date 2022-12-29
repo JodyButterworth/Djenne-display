@@ -21,5 +21,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest4a.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest4b.json",
+    "label" : "[Click to edit label]"
   } ]
 }
