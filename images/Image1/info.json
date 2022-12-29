@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 123,
+    "height" : 80
+  }, {
+    "width" : 245,
+    "height" : 160
+  }, {
+    "width" : 489,
+    "height" : 320
+  }, {
+    "width" : 978,
+    "height" : 639
+  }, {
+    "width" : 1955,
+    "height" : 1278
+  }, {
+    "width" : 3910,
+    "height" : 2555
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3910,
+  "@id" : "https://JodyButterworth.github.io/Djenne-display/images/Image1",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 2555
+}
