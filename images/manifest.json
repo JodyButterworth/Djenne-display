@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3840,
+    "id" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition/canvas/",
+    "label" : {
+      "none" : [ "Djenneexhibition" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 120,
+              "height" : 90
+            }, {
+              "width" : 240,
+              "height" : 180
+            }, {
+              "width" : 480,
+              "height" : 360
+            }, {
+              "width" : 960,
+              "height" : 720
+            }, {
+              "width" : 1920,
+              "height" : 1440
+            }, {
+              "width" : 3840,
+              "height" : 2880
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3840,
+            "@id" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2880
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3840,
+          "id" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2880
+        },
+        "target" : "https://JodyButterworth.github.io/Djenne-display/images/Djenneexhibition/canvas/"
+      } ]
+    } ],
+    "height" : 2880
+  }, {
     "width" : 4032,
     "id" : "https://JodyButterworth.github.io/Djenne-display/images/Bamako/canvas/",
     "label" : {
