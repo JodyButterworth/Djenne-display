@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3909,
+    "id" : "https://JodyButterworth.github.io/Djenne-display/images/Image9/canvas/",
+    "label" : {
+      "none" : [ "Image9" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://JodyButterworth.github.io/Djenne-display/images/Image9/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://JodyButterworth.github.io/Djenne-display/images/Image9/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 123,
+              "height" : 80
+            }, {
+              "width" : 245,
+              "height" : 160
+            }, {
+              "width" : 489,
+              "height" : 319
+            }, {
+              "width" : 978,
+              "height" : 637
+            }, {
+              "width" : 1955,
+              "height" : 1273
+            }, {
+              "width" : 3909,
+              "height" : 2546
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3909,
+            "@id" : "https://JodyButterworth.github.io/Djenne-display/images/Image9",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2546
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3909,
+          "id" : "https://JodyButterworth.github.io/Djenne-display/images/Image9/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2546
+        },
+        "target" : "https://JodyButterworth.github.io/Djenne-display/images/Image9/canvas/"
+      } ]
+    } ],
+    "height" : 2546
+  }, {
     "width" : 3630,
     "id" : "https://JodyButterworth.github.io/Djenne-display/images/Image8/canvas/",
     "label" : {
