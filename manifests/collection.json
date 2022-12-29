@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest1.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest2.json",
+    "label" : "[Click to edit label]"
   } ]
 }
