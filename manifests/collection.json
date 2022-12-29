@@ -33,5 +33,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest5b.json",
     "label" : "[Click to edit label]"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest6.json",
+    "label" : "[Click to edit label]"
   } ]
 }
