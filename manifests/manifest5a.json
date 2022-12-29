@@ -1,0 +1,49 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://JodyButterworth.github.io/Djenne-display/manifests/manifest5a.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://0e3abb7e-9646-4b34-b0e3-777501eba9bf",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://17c83586-4770-4fb8-8770-acd9a79a78de",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 2059,
+      "width" : 1617,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://afdbc416-2fab-465b-9ed7-f5bc02986637",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://jodybutterworth.github.io/Djenne-display/images/Image5a/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://jodybutterworth.github.io/Djenne-display/images/Image5a",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2059,
+          "width" : 1617
+        },
+        "on" : "http://17c83586-4770-4fb8-8770-acd9a79a78de"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
